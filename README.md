@@ -1,3 +1,7 @@
 # DeepLearning2021
+Deeplearning assignment: Facial feature recognition
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kata5/DeepLearning2021/blob/main/DeepLearning2021_Milestone01.ipynb)
+Team members:
+Sándor Gregus (YRVTLZ), Katalin Ócsai (EW9A0Z), Mátyás Prechl (JR4JDJ)
+
+Dataset: CelebA
