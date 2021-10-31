@@ -2,7 +2,7 @@
 
 
 
-Welcome to the assignment of Sándor Gregus, Katalin Ócsai (EW9A0Z), and József Mátyás Prechl!
+Welcome to the assignment of Sándor Gregus (YRVTLZ), Katalin Ócsai (EW9A0Z), and Mátyás Prechl (JR4JDJ)!
 
 We decided to work on a larger and simpler database: CelebA. We have reviewed not only the recommended GAN literature (https://paperswithcode.com/paper/progressive-growing-of-gans-for-improved ) but also VAEs and beta VAEs.
 
@@ -17,7 +17,6 @@ We investigated some solutions for dataset generation and preprocession:
 * https://www.kaggle.com/ky2019/starter-celebfaces-attributes-celeba-b5421ae1-e
 * https://www.kaggle.com/saket0565/celebfaces-facial-attribute-recognition
 * https://www.kaggle.com/bmarcos/image-recognition-gender-detection-inceptionv3
-* https://www.kaggle.com/fkdplc/celeba-dcgan-for-generating-faces/notebook
 * https://www.kaggle.com/fkdplc/celeba-dcgan-for-generating-faces/notebook
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kata5/DeepLearning2021/blob/main/DeepLearning2021_Milestone01.ipynb)
