@@ -25,7 +25,7 @@ This first milestone was implemented in DeepLearning2021_Milestone01.ipynb
 # Milestone 02
 In this milestone
 1. we built a discriminative model for learning the labels of the database - DeepLearning2021_Milestone1_2.ipynb
-2. a deep ganarative model (i.e. a variational autencoder) was trained to learn the features of the faces - DeepLearning2021Milestone02.ipynb
+2. a deep generative model (i.e. a variational autencoder) was trained to learn the features of the faces - DeepLearning2021Milestone02.ipynb
 
 The discriminatve model used transfer learning based on an Inception v3 model pretrained on imagenet and the last layers were trained on the database with an early stopping callback. With the first naive model a pecision of 90% was reached. (for more details see the documentation later)
 
