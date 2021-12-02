@@ -32,12 +32,33 @@ The discriminatve model used transfer learning based on an Inception v3 model pr
 A deep generative model i.e. a variational autoencoder was built to learn the features of the faces. 
 To discover the meaning of the latents a latent traversal was implemented with an 
 The latent space of the variational autoencoder consisted of 64 dimension and some of them coded interpretable features of the faces. I.e.
-1.)23th dimension seems to code the factor for the color of the hair
-27.th dimension seems to code the existence of bangs
-28.th dimension seems to code the rotation of the face
-29.th dimension seems to code the existence of sunglasses
-61.th dimension seems to code the make-up
+* 23th dimension seems to code the factor for the color of the hair
+* 27.th dimension seems to code the existence of bangs
+* 28.th dimension seems to code the rotation of the face
+* 29.th dimension seems to code the existence of sunglasses
+* 61.th dimension seems to code the make-up
 
-Color of the hair:
+1.) Color of the hair:
+
 ![image](https://user-images.githubusercontent.com/24832770/144511184-0d8f90c7-3001-4ece-bb9d-6ed5b099c6f1.png)
+
+2.) The existence of bangs
+
+![image](https://user-images.githubusercontent.com/24832770/144511613-3b6ae2c1-de80-43f5-ba92-530fc50a6aa9.png)
+
+3.) The rotation of the face
+
+![image](https://user-images.githubusercontent.com/24832770/144511709-ba0a118e-9576-458f-9e8c-24167e98f921.png)
+
+4.) The existence of sunglasses
+
+![image](https://user-images.githubusercontent.com/24832770/144511940-4b93b5e7-a6ff-4169-8de3-fd6d22255a03.png)
+
+5.) Color of the skin / the existence of the make-up 
+
+![image](https://user-images.githubusercontent.com/24832770/144512260-8d880358-4224-4d72-b967-b1e20c75a873.png)
+
+
+
+
 
