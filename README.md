@@ -22,10 +22,19 @@ To discover the relationship between the attributes we plotted the correlation m
 
 This first milestone was implemented in DeepLearning2021_Milestone01.ipynb
 
-# Milestone 2
+# Milestone 02
 In this milestone
 1. we built a discriminative model for learning the labels of the database - DeepLearning2021_Milestone1_2.ipynb
 2. a deep ganarative model (i.e. a variational autencoder) was trained to learn the features of the faces - DeepLearning2021Milestone02.ipynb
 
 The discriminatve model used transfer learning based on an Inception v3 model pretrained on imagenet and the last layers were trained on the database with an early stopping callback. With the first naive model a pecision of 90% was reached. (for more details see the documentation later)
+
+A deep generative model i.e. a variational autoencoder was built to learn the features of the faces. 
+To discover the meaning of the latents a latent traversal was implemented with an 
+The latent space of the variational autoencoder consisted of 64 dimension and some of them coded interpretable features of the faces. I.e.
+1.)23th dimension seems to code the factor for the color of the hair
+27.th dimension seems to code the existence of bangs
+28.th dimension seems to code the rotation of the face
+29.th dimension seems to code the existence of sunglasses
+61.th dimension seems to code the make-up
 
