@@ -38,3 +38,6 @@ The latent space of the variational autoencoder consisted of 64 dimension and so
 29.th dimension seems to code the existence of sunglasses
 61.th dimension seems to code the make-up
 
+Color of the hair:
+![image](https://user-images.githubusercontent.com/24832770/144511184-0d8f90c7-3001-4ece-bb9d-6ed5b099c6f1.png)
+
