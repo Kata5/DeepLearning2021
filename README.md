@@ -2,7 +2,7 @@
 
 # Milestone 01
 
-Welcome to the assignment of Sándor Gregus (YRVTLZ), Katalin Ócsai (EW9A0Z), and Mátyás Prechl (JR4JDJ)!
+Welcome to the assignment of ~~Sándor Gregus (YRVTLZ)~~ (unfortunately quitted), Katalin Ócsai (EW9A0Z), and Mátyás Prechl (JR4JDJ)!
 
 We decided to work on a larger and simpler database: CelebA. We have reviewed not only the recommended GAN literature (https://paperswithcode.com/paper/progressive-growing-of-gans-for-improved ) but also VAEs and beta VAEs.
 
