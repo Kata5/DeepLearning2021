@@ -3,6 +3,7 @@
 # Milestone 01
 
 Welcome to the assignment of ~~Sándor Gregus (YRVTLZ)~~ (unfortunately quitted), Katalin Ócsai (EW9A0Z), and Mátyás Prechl (JR4JDJ)!
+(Sándor Gregus would have been responsible for milestone 2 but he quitted on the 24/November without any contribution to the project)
 
 We decided to work on a larger and simpler database: CelebA. We have reviewed not only the recommended GAN literature (https://paperswithcode.com/paper/progressive-growing-of-gans-for-improved ) but also VAEs and beta VAEs.
 
