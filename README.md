@@ -1,6 +1,6 @@
 # DeepLearning2021
 
-Welcome to the assignment of ~~Sándor Gregus (YRVTLZ)~~ (unfortunately quitted), Katalin Ócsai (EW9A0Z), and Mátyás Prechl (JR4JDJ)!
+Welcome to the assignment of ~~Sándor Gregus (YRVTLZ)~~ (unfortunately quit), Katalin Ócsai (EW9A0Z), and Mátyás Prechl (JR4JDJ)!
 
 # Contributions
 * Sándor Gregus would have been responsible for milestone 2 but he quitted on the 24/November without any contribution to the project.
