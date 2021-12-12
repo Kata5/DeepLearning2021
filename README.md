@@ -42,30 +42,36 @@ The discriminatve model used transfer learning based on an Inception v3 model pr
 A deep generative model i.e. a variational autoencoder was built to learn the features of the faces. 
 To discover the meaning of the latents a latent traversal was implemented with an 
 The latent space of the variational autoencoder consisted of 64 dimension and some of them coded interpretable features of the faces. I.e.
-* 23th dimension seems to code the factor for the color of the hair
-* 27.th dimension seems to code the existence of bangs
-* 28.th dimension seems to code the rotation of the face
-* 29.th dimension seems to code the existence of sunglasses
-* 61.th dimension seems to code the make-up
+* 16th dimension seems to code the factor for the color of the hair
+* 26.th dimension seems to code the existence of bangs
+* 2nd dimension seems to code the rotation of the face
+* 12th dimension seem to code the width of face
+* 9th dimension seems to code thickness of hair (not completely disentengled from hair color..)
 
 1.) Color of the hair:
+![image](https://user-images.githubusercontent.com/24832770/145726224-f1d19a1a-6cea-4af0-a45d-5f15bd8e2ece.png)
+![image](https://user-images.githubusercontent.com/24832770/145726256-e8d1d576-f2fc-4fa6-b45c-0e9f68f2f2d7.png)
 
-![image](https://user-images.githubusercontent.com/24832770/144511184-0d8f90c7-3001-4ece-bb9d-6ed5b099c6f1.png)
 
 2.) The existence of bangs
+![image](https://user-images.githubusercontent.com/24832770/145726278-612137db-7be9-4f6b-bbe3-4b49f56af677.png)
+![image](https://user-images.githubusercontent.com/24832770/145726306-282c8d1f-4359-43da-ba48-30054c937825.png)
 
-![image](https://user-images.githubusercontent.com/24832770/144511613-3b6ae2c1-de80-43f5-ba92-530fc50a6aa9.png)
 
 3.) The rotation of the face
+![image](https://user-images.githubusercontent.com/24832770/145726362-2a7f2a90-b83d-4802-8517-bfe84554b3b5.png)
 
-![image](https://user-images.githubusercontent.com/24832770/144511709-ba0a118e-9576-458f-9e8c-24167e98f921.png)
+4.) The thickness of hair
+![image](https://user-images.githubusercontent.com/24832770/145726458-57b7d5f9-36cb-44ed-b729-75aa4b176118.png)
+
+5.) the width of face(being fat)
+![image](https://user-images.githubusercontent.com/24832770/145726480-76172ed3-c35d-49a9-8cf8-96553c61507e.png)
+
 
 4.) The existence of sunglasses
-
 ![image](https://user-images.githubusercontent.com/24832770/144511940-4b93b5e7-a6ff-4169-8de3-fd6d22255a03.png)
 
 5.) Color of the skin / the existence of the make-up 
-
 ![image](https://user-images.githubusercontent.com/24832770/144512260-8d880358-4224-4d72-b967-b1e20c75a873.png)
 
 
