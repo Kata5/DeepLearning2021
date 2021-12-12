@@ -49,29 +49,36 @@ The latent space of the variational autoencoder consisted of 64 dimension and so
 * 9th dimension seems to code thickness of hair (not completely disentengled from hair color..)
 
 1.) Color of the hair:
+
 ![image](https://user-images.githubusercontent.com/24832770/145726224-f1d19a1a-6cea-4af0-a45d-5f15bd8e2ece.png)
 ![image](https://user-images.githubusercontent.com/24832770/145726256-e8d1d576-f2fc-4fa6-b45c-0e9f68f2f2d7.png)
 
 
 2.) The existence of bangs
+
 ![image](https://user-images.githubusercontent.com/24832770/145726278-612137db-7be9-4f6b-bbe3-4b49f56af677.png)
 ![image](https://user-images.githubusercontent.com/24832770/145726306-282c8d1f-4359-43da-ba48-30054c937825.png)
 
 
 3.) The rotation of the face
+
 ![image](https://user-images.githubusercontent.com/24832770/145726362-2a7f2a90-b83d-4802-8517-bfe84554b3b5.png)
 
 4.) The thickness of hair
+
 ![image](https://user-images.githubusercontent.com/24832770/145726458-57b7d5f9-36cb-44ed-b729-75aa4b176118.png)
 
 5.) the width of face(being fat)
+
 ![image](https://user-images.githubusercontent.com/24832770/145726480-76172ed3-c35d-49a9-8cf8-96553c61507e.png)
 
 
 4.) The existence of sunglasses
+
 ![image](https://user-images.githubusercontent.com/24832770/144511940-4b93b5e7-a6ff-4169-8de3-fd6d22255a03.png)
 
-5.) Color of the skin / the existence of the make-up 
+5.) Color of the skin / the existence of the make-up
+
 ![image](https://user-images.githubusercontent.com/24832770/144512260-8d880358-4224-4d72-b967-b1e20c75a873.png)
 
 
