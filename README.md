@@ -74,7 +74,8 @@ The latent space of the variational autoencoder consisted of 64 dimension and so
 ![image](https://user-images.githubusercontent.com/24832770/145726480-76172ed3-c35d-49a9-8cf8-96553c61507e.png)
 
 
-
+# Documentation
+Please find the details in https://github.com/Kata5/DeepLearning2021/blob/main/Documentation2.pdf
 
 
 
