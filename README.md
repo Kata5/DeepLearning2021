@@ -6,11 +6,12 @@ Welcome to the assignment of ~~Sándor Gregus (YRVTLZ)~~ (unfortunately quitted)
 * Sándor Gregus would have been responsible for milestone 2 but he quitted on the 24/November without any contribution to the project.
 * Mátyás Prechl would have been responsible for the visualization of the hiperparameter tuning but he could not contribute to MileStone3 at all.
 * Katalin Ócsai contributed to all the three milestones (as it can be seen on commit list).
-      *  splitting function for test, training, validation data, some data discovery for the discriminative model
-      *  the entire solution for generative model (VAE), latent traversal
-      *  parameter optimalistion of VAE
-      *  finding meaningful dimensions of VAE according to the laten traversal
-      *  entire documentation (documentation.pdf, future planes,  belogs to her (as finally she was alone in mileStone 3)
+
+-- splitting function for test, training, validation data, some data discovery for the discriminative model
+-- the entire solution for generative model (VAE), latent traversal
+-- parameter optimalistion of VAE
+-- finding meaningful dimensions of VAE according to the laten traversal
+-- entire documentation (documentation.pdf, future planes,  belogs to her (as finally she was alone in mileStone 3)
 
 # Dataset
 We decided to work on a larger and simpler database: CelebA. We have reviewed not only the recommended GAN literature (https://paperswithcode.com/paper/progressive-growing-of-gans-for-improved ) but also VAEs and beta VAEs.
