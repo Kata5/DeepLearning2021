@@ -18,9 +18,11 @@ We decided to work on a larger and simpler database: CelebA. We have reviewed no
 
 # Reproduction of results:
 For the discriminative model run the https://github.com/Kata5/DeepLearning2021/blob/main/DeepLearning2021_Milestone1_2.ipynb
+
 For the generative model run the https://github.com/Kata5/DeepLearning2021/blob/main/DeepLearning2021Milestone03.ipynb 
 
 Please find the results of VAE parameter optimalization  in https://github.com/Kata5/DeepLearning2021/tree/main/VAE_results folder. 
+
 Latents were discovered by hand and the best latents were achieved at https://github.com/Kata5/DeepLearning2021/blob/main/VAE_results/vae_best.pt (Which is uploaded to Google drive so as to be able to download it from the ipynb file as well.)
 
 # Milestone 01
