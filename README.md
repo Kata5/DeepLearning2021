@@ -73,14 +73,6 @@ The latent space of the variational autoencoder consisted of 64 dimension and so
 ![image](https://user-images.githubusercontent.com/24832770/145726480-76172ed3-c35d-49a9-8cf8-96553c61507e.png)
 
 
-4.) The existence of sunglasses
-
-![image](https://user-images.githubusercontent.com/24832770/144511940-4b93b5e7-a6ff-4169-8de3-fd6d22255a03.png)
-
-5.) Color of the skin / the existence of the make-up
-
-![image](https://user-images.githubusercontent.com/24832770/144512260-8d880358-4224-4d72-b967-b1e20c75a873.png)
-
 
 
 
