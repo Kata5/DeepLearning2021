@@ -8,9 +8,13 @@ Welcome to the assignment of ~~Sándor Gregus (YRVTLZ)~~ (unfortunately quitted)
 * Katalin Ócsai contributed to all the three milestones (as it can be seen on commit list).
 
 -- splitting function for test, training, validation data, some data discovery for the discriminative model
+
 -- the entire solution for generative model (VAE), latent traversal
+
 -- parameter optimalistion of VAE
+
 -- finding meaningful dimensions of VAE according to the laten traversal
+
 -- entire documentation (documentation.pdf, future planes,  belogs to her (as finally she was alone in mileStone 3)
 
 # Dataset
