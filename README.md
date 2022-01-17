@@ -1,6 +1,6 @@
 # DeepLearning2021
 
-YouTube movie: https://youtu.be/_dB7a7qqdxs
+YouTube movie: https://youtu.be/_dB7a7qqdxs (first 10 minutes about the project, the last about Hierarchical VAE as it was my future plan.)
 
 Welcome to the assignment of ~~Sándor Gregus (YRVTLZ)~~ (unfortunately quit), Katalin Ócsai (EW9A0Z), and Mátyás Prechl (JR4JDJ)!
 
