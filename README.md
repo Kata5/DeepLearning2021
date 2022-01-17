@@ -1,5 +1,7 @@
 # DeepLearning2021
 
+YouTube movie: https://youtu.be/_dB7a7qqdxs
+
 Welcome to the assignment of ~~Sándor Gregus (YRVTLZ)~~ (unfortunately quit), Katalin Ócsai (EW9A0Z), and Mátyás Prechl (JR4JDJ)!
 
 # Contributions
