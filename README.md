@@ -1,6 +1,6 @@
 # DeepLearning2021
 
-YouTube movie: https://youtu.be/_dB7a7qqdxs (first 10 minutes about the project, the last about Hierarchical VAE which I undertook in the "Future Plans" section and I have had some results in it since the commitment.)
+YouTube movie: https://youtu.be/_dB7a7qqdxs (first 10 minutes about the project (MileStone 1-3), the last about Hierarchical VAE which I undertook in the "Future Plans" section and I have had some results in it since the commitment.)
 
 PPTX: https://docs.google.com/presentation/d/1MYBNsJQHEJNrDi6rnL_mRB1O1spm5JbR/edit?usp=sharing&ouid=101349323361448180914&rtpof=true&sd=true
 
