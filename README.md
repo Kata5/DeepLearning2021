@@ -1,13 +1,5 @@
 # DeepLearning2021
 
-
-Welcome to the assignment of ~~Sándor Gregus (YRVTLZ)~~ (unfortunately quit), Katalin Ócsai (EW9A0Z), and Mátyás Prechl (JR4JDJ)!
-
-# Contributions
-* Sándor Gregus would have been responsible for milestone 2 but he quitted on the 24/November without any contribution to the project.
-* Mátyás Prechl would have been responsible for the visualization of the hiperparameter tuning but he could not contribute to MileStone3 at all.
-* Katalin Ócsai contributed to all the three milestones (as it can be seen in list of commits).
-
 ** splitting function for test, training, validation data, some data discovery for the discriminative model
 ** the entire solution for generative model (VAE), latent traversal
 ** parameter optimalistion of VAE
