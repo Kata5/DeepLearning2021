@@ -1,13 +1,8 @@
 # DeepLearning2021
 
-** splitting function for test, training, validation data, some data discovery for the discriminative model
-** the entire solution for generative model (VAE), latent traversal
-** parameter optimalistion of VAE
-** finding meaningful dimensions of VAE according to the laten traversal
-** entire documentation (documentation.pdf, future planes,  belogs to her (as finally she was alone in mileStone 3)
 
 # Dataset
-We decided to work on a larger and simpler database: CelebA. We have reviewed not only the recommended GAN literature (https://paperswithcode.com/paper/progressive-growing-of-gans-for-improved ) but also VAEs and beta VAEs.
+I decided to work on a larger and simpler database: CelebA. We have reviewed not only the recommended GAN literature (https://paperswithcode.com/paper/progressive-growing-of-gans-for-improved ) but also VAEs and beta VAEs.
 
 # Reproduction of results:
 For the discriminative model run the https://github.com/Kata5/DeepLearning2021/blob/main/DeepLearning2021_Milestone1_2.ipynb
